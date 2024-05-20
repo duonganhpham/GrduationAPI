@@ -1,0 +1,38 @@
+C:\Users\PC\source\repos\study-webapi-net\Graduation Project API\ClassLibrary1\obj\Debug\net6.0\GraduationProjectAPI.Entities.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\study-webapi-net\Graduation Project API\ClassLibrary1\obj\Debug\net6.0\GraduationProjectAPI.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\study-webapi-net\Graduation Project API\ClassLibrary1\obj\Debug\net6.0\GraduationProjectAPI.Entities.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\study-webapi-net\Graduation Project API\ClassLibrary1\obj\Debug\net6.0\GraduationProjectAPI.Entities.AssemblyInfo.cs
+C:\Users\PC\source\repos\study-webapi-net\Graduation Project API\ClassLibrary1\obj\Debug\net6.0\GraduationProjectAPI.Entities.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\study-webapi-net\Graduation Project API\ClassLibrary1\obj\Debug\net6.0\GraduationProjectAPI.Entities.sourcelink.json
+C:\Users\PC\source\repos\study-webapi-net\Graduation Project API\ClassLibrary1\bin\Debug\net6.0\GraduationProjectAPI.Entities.deps.json
+C:\Users\PC\source\repos\study-webapi-net\Graduation Project API\ClassLibrary1\bin\Debug\net6.0\GraduationProjectAPI.Entities.dll
+C:\Users\PC\source\repos\study-webapi-net\Graduation Project API\ClassLibrary1\bin\Debug\net6.0\GraduationProjectAPI.Entities.pdb
+C:\Users\PC\source\repos\study-webapi-net\Graduation Project API\ClassLibrary1\obj\Debug\net6.0\GraduationProjectAPI.Entities.dll
+C:\Users\PC\source\repos\study-webapi-net\Graduation Project API\ClassLibrary1\obj\Debug\net6.0\refint\GraduationProjectAPI.Entities.dll
+C:\Users\PC\source\repos\study-webapi-net\Graduation Project API\ClassLibrary1\obj\Debug\net6.0\GraduationProjectAPI.Entities.pdb
+C:\Users\PC\source\repos\study-webapi-net\Graduation Project API\ClassLibrary1\obj\Debug\net6.0\ref\GraduationProjectAPI.Entities.dll
+C:\Users\PC\source\repos\Graduation Project API\ClassLibrary1\bin\Debug\net6.0\GraduationProjectAPI.Entities.deps.json
+C:\Users\PC\source\repos\Graduation Project API\ClassLibrary1\bin\Debug\net6.0\GraduationProjectAPI.Entities.dll
+C:\Users\PC\source\repos\Graduation Project API\ClassLibrary1\bin\Debug\net6.0\GraduationProjectAPI.Entities.pdb
+C:\Users\PC\source\repos\Graduation Project API\ClassLibrary1\obj\Debug\net6.0\GraduationProjectAPI.Entities.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Graduation Project API\ClassLibrary1\obj\Debug\net6.0\GraduationProjectAPI.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Graduation Project API\ClassLibrary1\obj\Debug\net6.0\GraduationProjectAPI.Entities.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Graduation Project API\ClassLibrary1\obj\Debug\net6.0\GraduationProjectAPI.Entities.AssemblyInfo.cs
+C:\Users\PC\source\repos\Graduation Project API\ClassLibrary1\obj\Debug\net6.0\GraduationProjectAPI.Entities.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Graduation Project API\ClassLibrary1\obj\Debug\net6.0\GraduationProjectAPI.Entities.dll
+C:\Users\PC\source\repos\Graduation Project API\ClassLibrary1\obj\Debug\net6.0\refint\GraduationProjectAPI.Entities.dll
+C:\Users\PC\source\repos\Graduation Project API\ClassLibrary1\obj\Debug\net6.0\GraduationProjectAPI.Entities.pdb
+C:\Users\PC\source\repos\Graduation Project API\ClassLibrary1\obj\Debug\net6.0\ref\GraduationProjectAPI.Entities.dll
+C:\Users\PC\Desktop\GrduationAPI-master\GrduationAPI-master\ClassLibrary1\bin\Debug\net6.0\GraduationProjectAPI.Entities.deps.json
+C:\Users\PC\Desktop\GrduationAPI-master\GrduationAPI-master\ClassLibrary1\bin\Debug\net6.0\GraduationProjectAPI.Entities.dll
+C:\Users\PC\Desktop\GrduationAPI-master\GrduationAPI-master\ClassLibrary1\bin\Debug\net6.0\GraduationProjectAPI.Entities.pdb
+C:\Users\PC\Desktop\GrduationAPI-master\GrduationAPI-master\ClassLibrary1\obj\Debug\net6.0\GraduationProjectAPI.Entities.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\GrduationAPI-master\GrduationAPI-master\ClassLibrary1\obj\Debug\net6.0\GraduationProjectAPI.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\GrduationAPI-master\GrduationAPI-master\ClassLibrary1\obj\Debug\net6.0\GraduationProjectAPI.Entities.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\GrduationAPI-master\GrduationAPI-master\ClassLibrary1\obj\Debug\net6.0\GraduationProjectAPI.Entities.AssemblyInfo.cs
+C:\Users\PC\Desktop\GrduationAPI-master\GrduationAPI-master\ClassLibrary1\obj\Debug\net6.0\GraduationProjectAPI.Entities.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\GrduationAPI-master\GrduationAPI-master\ClassLibrary1\obj\Debug\net6.0\GraduationProjectAPI.Entities.dll
+C:\Users\PC\Desktop\GrduationAPI-master\GrduationAPI-master\ClassLibrary1\obj\Debug\net6.0\refint\GraduationProjectAPI.Entities.dll
+C:\Users\PC\Desktop\GrduationAPI-master\GrduationAPI-master\ClassLibrary1\obj\Debug\net6.0\GraduationProjectAPI.Entities.pdb
+C:\Users\PC\Desktop\GrduationAPI-master\GrduationAPI-master\ClassLibrary1\obj\Debug\net6.0\ref\GraduationProjectAPI.Entities.dll
+C:\Users\PC\source\repos\Graduation Project API\ClassLibrary1\obj\Debug\net6.0\GraduationProjectAPI.Entities.sourcelink.json

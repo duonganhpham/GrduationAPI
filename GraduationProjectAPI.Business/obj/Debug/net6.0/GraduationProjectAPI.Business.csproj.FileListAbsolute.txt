@@ -1,0 +1,52 @@
+C:\Users\PC\source\repos\study-webapi-net\Graduation Project API\GraduationProjectAPI.Business\bin\Debug\net6.0\GraduationProjectAPI.Business.deps.json
+C:\Users\PC\source\repos\study-webapi-net\Graduation Project API\GraduationProjectAPI.Business\bin\Debug\net6.0\GraduationProjectAPI.Business.dll
+C:\Users\PC\source\repos\study-webapi-net\Graduation Project API\GraduationProjectAPI.Business\bin\Debug\net6.0\GraduationProjectAPI.Business.pdb
+C:\Users\PC\source\repos\study-webapi-net\Graduation Project API\GraduationProjectAPI.Business\bin\Debug\net6.0\GraduationProjectAPI.DB.dll
+C:\Users\PC\source\repos\study-webapi-net\Graduation Project API\GraduationProjectAPI.Business\bin\Debug\net6.0\GraduationProjectAPI.Entities.dll
+C:\Users\PC\source\repos\study-webapi-net\Graduation Project API\GraduationProjectAPI.Business\bin\Debug\net6.0\GraduationProjectAPI.DB.pdb
+C:\Users\PC\source\repos\study-webapi-net\Graduation Project API\GraduationProjectAPI.Business\bin\Debug\net6.0\GraduationProjectAPI.Entities.pdb
+C:\Users\PC\source\repos\study-webapi-net\Graduation Project API\GraduationProjectAPI.Business\obj\Debug\net6.0\GraduationProjectAPI.Business.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\study-webapi-net\Graduation Project API\GraduationProjectAPI.Business\obj\Debug\net6.0\GraduationProjectAPI.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\study-webapi-net\Graduation Project API\GraduationProjectAPI.Business\obj\Debug\net6.0\GraduationProjectAPI.Business.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\study-webapi-net\Graduation Project API\GraduationProjectAPI.Business\obj\Debug\net6.0\GraduationProjectAPI.Business.AssemblyInfo.cs
+C:\Users\PC\source\repos\study-webapi-net\Graduation Project API\GraduationProjectAPI.Business\obj\Debug\net6.0\GraduationProjectAPI.Business.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\study-webapi-net\Graduation Project API\GraduationProjectAPI.Business\obj\Debug\net6.0\GraduationProjectAPI.Business.sourcelink.json
+C:\Users\PC\source\repos\study-webapi-net\Graduation Project API\GraduationProjectAPI.Business\obj\Debug\net6.0\GraduationProjectAPI.Business.csproj.CopyComplete
+C:\Users\PC\source\repos\study-webapi-net\Graduation Project API\GraduationProjectAPI.Business\obj\Debug\net6.0\GraduationProjectAPI.Business.dll
+C:\Users\PC\source\repos\study-webapi-net\Graduation Project API\GraduationProjectAPI.Business\obj\Debug\net6.0\refint\GraduationProjectAPI.Business.dll
+C:\Users\PC\source\repos\study-webapi-net\Graduation Project API\GraduationProjectAPI.Business\obj\Debug\net6.0\GraduationProjectAPI.Business.pdb
+C:\Users\PC\source\repos\study-webapi-net\Graduation Project API\GraduationProjectAPI.Business\obj\Debug\net6.0\ref\GraduationProjectAPI.Business.dll
+C:\Users\PC\source\repos\Graduation Project API\GraduationProjectAPI.Business\bin\Debug\net6.0\GraduationProjectAPI.Business.deps.json
+C:\Users\PC\source\repos\Graduation Project API\GraduationProjectAPI.Business\bin\Debug\net6.0\GraduationProjectAPI.Business.dll
+C:\Users\PC\source\repos\Graduation Project API\GraduationProjectAPI.Business\bin\Debug\net6.0\GraduationProjectAPI.Business.pdb
+C:\Users\PC\source\repos\Graduation Project API\GraduationProjectAPI.Business\bin\Debug\net6.0\GraduationProjectAPI.DB.dll
+C:\Users\PC\source\repos\Graduation Project API\GraduationProjectAPI.Business\bin\Debug\net6.0\GraduationProjectAPI.Entities.dll
+C:\Users\PC\source\repos\Graduation Project API\GraduationProjectAPI.Business\bin\Debug\net6.0\GraduationProjectAPI.DB.pdb
+C:\Users\PC\source\repos\Graduation Project API\GraduationProjectAPI.Business\bin\Debug\net6.0\GraduationProjectAPI.Entities.pdb
+C:\Users\PC\source\repos\Graduation Project API\GraduationProjectAPI.Business\obj\Debug\net6.0\GraduationProjectAPI.Business.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Graduation Project API\GraduationProjectAPI.Business\obj\Debug\net6.0\GraduationProjectAPI.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Graduation Project API\GraduationProjectAPI.Business\obj\Debug\net6.0\GraduationProjectAPI.Business.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Graduation Project API\GraduationProjectAPI.Business\obj\Debug\net6.0\GraduationProjectAPI.Business.AssemblyInfo.cs
+C:\Users\PC\source\repos\Graduation Project API\GraduationProjectAPI.Business\obj\Debug\net6.0\GraduationProjectAPI.Business.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Graduation Project API\GraduationProjectAPI.Business\obj\Debug\net6.0\GraduationProjectAPI.Business.csproj.CopyComplete
+C:\Users\PC\source\repos\Graduation Project API\GraduationProjectAPI.Business\obj\Debug\net6.0\GraduationProjectAPI.Business.dll
+C:\Users\PC\source\repos\Graduation Project API\GraduationProjectAPI.Business\obj\Debug\net6.0\refint\GraduationProjectAPI.Business.dll
+C:\Users\PC\source\repos\Graduation Project API\GraduationProjectAPI.Business\obj\Debug\net6.0\GraduationProjectAPI.Business.pdb
+C:\Users\PC\source\repos\Graduation Project API\GraduationProjectAPI.Business\obj\Debug\net6.0\ref\GraduationProjectAPI.Business.dll
+C:\Users\PC\Desktop\GrduationAPI-master\GrduationAPI-master\GraduationProjectAPI.Business\bin\Debug\net6.0\GraduationProjectAPI.Business.deps.json
+C:\Users\PC\Desktop\GrduationAPI-master\GrduationAPI-master\GraduationProjectAPI.Business\bin\Debug\net6.0\GraduationProjectAPI.Business.dll
+C:\Users\PC\Desktop\GrduationAPI-master\GrduationAPI-master\GraduationProjectAPI.Business\bin\Debug\net6.0\GraduationProjectAPI.Business.pdb
+C:\Users\PC\Desktop\GrduationAPI-master\GrduationAPI-master\GraduationProjectAPI.Business\bin\Debug\net6.0\GraduationProjectAPI.DB.dll
+C:\Users\PC\Desktop\GrduationAPI-master\GrduationAPI-master\GraduationProjectAPI.Business\bin\Debug\net6.0\GraduationProjectAPI.Entities.dll
+C:\Users\PC\Desktop\GrduationAPI-master\GrduationAPI-master\GraduationProjectAPI.Business\bin\Debug\net6.0\GraduationProjectAPI.DB.pdb
+C:\Users\PC\Desktop\GrduationAPI-master\GrduationAPI-master\GraduationProjectAPI.Business\bin\Debug\net6.0\GraduationProjectAPI.Entities.pdb
+C:\Users\PC\Desktop\GrduationAPI-master\GrduationAPI-master\GraduationProjectAPI.Business\obj\Debug\net6.0\GraduationProjectAPI.Business.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\GrduationAPI-master\GrduationAPI-master\GraduationProjectAPI.Business\obj\Debug\net6.0\GraduationProjectAPI.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\GrduationAPI-master\GrduationAPI-master\GraduationProjectAPI.Business\obj\Debug\net6.0\GraduationProjectAPI.Business.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\GrduationAPI-master\GrduationAPI-master\GraduationProjectAPI.Business\obj\Debug\net6.0\GraduationProjectAPI.Business.AssemblyInfo.cs
+C:\Users\PC\Desktop\GrduationAPI-master\GrduationAPI-master\GraduationProjectAPI.Business\obj\Debug\net6.0\GraduationProjectAPI.Business.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\GrduationAPI-master\GrduationAPI-master\GraduationProjectAPI.Business\obj\Debug\net6.0\GraduationProjectAPI.Business.csproj.CopyComplete
+C:\Users\PC\Desktop\GrduationAPI-master\GrduationAPI-master\GraduationProjectAPI.Business\obj\Debug\net6.0\GraduationProjectAPI.Business.dll
+C:\Users\PC\Desktop\GrduationAPI-master\GrduationAPI-master\GraduationProjectAPI.Business\obj\Debug\net6.0\refint\GraduationProjectAPI.Business.dll
+C:\Users\PC\Desktop\GrduationAPI-master\GrduationAPI-master\GraduationProjectAPI.Business\obj\Debug\net6.0\GraduationProjectAPI.Business.pdb
+C:\Users\PC\Desktop\GrduationAPI-master\GrduationAPI-master\GraduationProjectAPI.Business\obj\Debug\net6.0\ref\GraduationProjectAPI.Business.dll
